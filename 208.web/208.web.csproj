@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Anasayfa.html" />
+    <Content Include="html2.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

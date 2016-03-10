@@ -78,7 +78,6 @@
     <Content Include="Properties\Anasayfa.html" />
     <Content Include="Sayfalar\HTM3.html" />
     <Content Include="Sayfalar\html2.html" />
-    <Content Include="Sayfalar\ParagrahsAndHeadings.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

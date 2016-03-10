@@ -78,6 +78,7 @@
     <Content Include="Properties\Anasayfa.html" />
     <Content Include="Sayfalar\HTM3.html" />
     <Content Include="Sayfalar\html2.html" />
+    <Content Include="Sayfalar\MidLessonBreather.html" />
     <Content Include="Sayfalar\MoreAboutHeadings.html" />
     <Content Include="Sayfalar\ParagraphsAnd Headings.html" />
     <Content Include="Sayfalar\UsingEveryHeading.html" />
